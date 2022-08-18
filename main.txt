@@ -3,7 +3,7 @@ vs code practice
 pra first commit
 pra second 
 pra 9
-pra 11
-pra 7
-pra 6
+pra 15
+pra 56
+pra 78
 pra 8 
